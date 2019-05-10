@@ -11,5 +11,7 @@ Right now I'm a PhD candidate in Cognitive Psychology and Cognitive Neuroscience
 
 Previously I was an undergraduate at Grinnell College in [Janet Gibson's]() lab. I also worked as a Research Associate for Susan Nittrouer's [Speech Development Lab](http://www.speechdevelopment.org/) as well as for the [Center for Innovation in Pediatric Practice](https://www.nationwidechildrens.org/research/areas-of-research/center-for-innovation-in-pediatric-practice) at Nationwide Children's Hospital.
 
-
+##here are social links:
+LinkedIn: https://www.linkedin.com/in/caitlin-rice/
+Twitter: https://twitter.com/caitlinguist
 ---
