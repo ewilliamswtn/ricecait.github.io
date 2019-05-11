@@ -1,4 +1,4 @@
-# github.io
+Caitlin Rice Website
 
 ## here's some text for the homepage:
 
