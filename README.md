@@ -1,9 +1,4 @@
 # github.io
-personal website
-
-
-
-hey caitlin
 
 ## here's some text for the homepage:
 
