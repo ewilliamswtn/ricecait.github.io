@@ -42,4 +42,12 @@
 				side: 'right'
 			});
 
+			
+		$("#contact-button").click(function() {
+			console.log("hey");
+			$('html, body').animate({
+				scrollTop: $("#contact-top").offset().top
+			}, 2000);
+		});
+
 })(jQuery);
