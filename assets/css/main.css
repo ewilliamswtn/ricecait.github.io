@@ -1,5 +1,9 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600");
+
+
+
 /*
 	Industrious by TEMPLATED
 	templated.co @templatedco
@@ -127,6 +131,8 @@ em, i {
 
 p {
   margin: 0 0 2rem 0; }
+
+
 
 header.special {
   text-align: center;
@@ -1811,14 +1817,14 @@ ul.icons {
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
-  background-image: url("../../images/banner.jpg");
+  background-image: url("../../images/waves.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   border-top: 0;
   display: -ms-flexbox;
-  height: 35rem !important;
-  min-height: 35rem;
+  height: 100vh !important;
+  min-height: 100vh;
   overflow: hidden;
   position: relative;
   text-align: center;
@@ -2009,7 +2015,7 @@ ul.icons {
     top: 0;
     width: 100%;
     z-index: 1; }
-  #banner:after {
+  /* #banner:after {
     background: linear-gradient(135deg, #ce1b28 0%, #111111 74%);
     content: ' ';
     display: block;
@@ -2020,7 +2026,7 @@ ul.icons {
     top: 0;
     webkit-linear-gradientidth: 100%;
     width: 100%;
-    z-index: 1; }
+    z-index: 1; } */
   #banner.small {
     height: 30vh !important;
     min-height: 30vh; }
@@ -2353,18 +2359,18 @@ ul.icons {
       width: 25%; }
       #footer .content section:first-child {
         width: 50%;
-        padding-right: 4rem; }
+        padding-right: 2rem; }
       #footer .content section:last-child {
-        padding-left: 4rem; }
+        padding-left: 2rem; }
   #footer .copyright {
     border-top: 1px solid;
     font-size: 0.8rem;
     opacity: 0.5;
-    padding: 2rem 0;
+    padding: 1rem 0;
     text-align: center; }
   @media screen and (max-width: 1280px) {
     #footer {
-      padding: 4rem 0 2rem 0 ; } }
+      padding: 2rem 0 1rem 0 ; } }
   @media screen and (max-width: 980px) {
     #footer .content {
       -moz-flex-wrap: wrap;
@@ -2820,3 +2826,28 @@ body.is-menu-visible #menu {
   transform: translateX(0);
   box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
   visibility: visible; }
+
+
+
+  #header > .logo {
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 1rem;
+    letter-spacing: 1px;
+  }
+
+  #header > nav > a {
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 1rem;
+    letter-spacing: 1px;
+  }
+
+  .cait-portrait {
+    border-radius: 10%;
+  }
+
+  .cv-frame {
+    display: block;
+    margin: 0 auto;
+  }
