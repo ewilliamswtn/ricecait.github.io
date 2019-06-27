@@ -5,7 +5,7 @@ Caitlin Rice Website
 In "Caitlin's images" the file DSC_5658.jpg is for the homepage - can we replace the existing file "cait-portrait.png" with this one? DSC_5659.jpg is a zoomed out version of the same image if the dimension of that are better for any reason.   
 ### Other comments: 
 -I absolutely love the homepage with the new formatting! My only question is if we can make the text below  the section "A LITTLE ABOUT ME" a little larger?  
-- Would it be possible to change the format of the CV page so that instead of an embedded iframe, it's just text? I'm guessing this will be a pain to copy/paste and format the text, so if you can point me to the right place to do it I'm happy to work on that. We don't have to format it exactly like it is on the CV. I'm thinking pretty plain format, kind of like Shervin has on his publications page: http://www.cs.cmu.edu/~sjavdani/publications.html
+-Would it be possible to change the format of the CV page so that instead of an embedded iframe, it's just text? I'm guessing this will be a pain to copy/paste and format the text, so if you can point me to the right place to do it I'm happy to work on that. We don't have to format it exactly like it is on the CV. I'm thinking pretty plain format, kind of like Shervin has on his publications page: http://www.cs.cmu.edu/~sjavdani/publications.html
 
 
 ### Latest changes: 
